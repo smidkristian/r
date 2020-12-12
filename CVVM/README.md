@@ -6,4 +6,4 @@ The data comes from a public survey done by Public Opinion Research Centre in Cz
 
 Open script.R in RStudio
 
-This is my final R seminar work I did at The Department of Sociology. My task was to write a script which makes two tables with a certain counted data. Questions are in Czech. 
+This is my final R seminar work I did at The Department of Sociology. My task was to write a script which makes two tables with a certain computed data. Questions are in Czech. 
