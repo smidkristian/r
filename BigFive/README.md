@@ -1,5 +1,3 @@
-### README.txt
-
 ## DATA
  
 For more information about the data, read 'codebook.txt'
