@@ -1,0 +1,22 @@
+extro = E1, E3, E5, E7, E9
+
+intro = E2, E4, E6, E8, E10
+
+relax = N2, N4
+
+stress = N1, N3, N5, N6, N7, N8, N9, N10
+
+empatic = A2, A4, A6, A8, A9, A10
+
+cold = A1, A3, A5, A7
+
+systematic = C1, C3, C5, C7, C9, C10
+
+chaotic = C2, C4, C6, C8
+
+sharp = O1, O3, O5, O7, O8, O9, O10
+
+plain = 02, 04, 06  
+
+ 
+
