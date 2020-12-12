@@ -1,5 +1,3 @@
-### README.md
-
 ## DATA
 
 The data comes from a public survey done by Public Opinion Research Centre in Czech Republic. They were asking Czech citizens how they felt about the different kinds of threats to society.
